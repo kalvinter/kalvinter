@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 
 
-
 <p align='center'>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -27,13 +26,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
 
-
 <p align='center'>
-  <a href="https://www.linkedin.com/in/thomasebenstein" style="text-decoration:none">
-    &nbsp;<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://gitlab.com/Kalvinter" style="text-decoration:none">
-    &nbsp;<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  
+  <a href="https://gitlab.com/Kalvinter">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/thomasebenstein">
+     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"> 
+  </a>
 </p>
